@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="851097d27294475d9f7f503f0b5fef37" Name="Diagram1">
+        <EntityTypeShape EntityType="BD_PasteleriaModel.categoria" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_PasteleriaModel.cliente" Width="1.5" PointX="7.5" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_PasteleriaModel.detalle" Width="1.5" PointX="9.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_PasteleriaModel.encargo" Width="1.5" PointX="9.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_PasteleriaModel.inventario" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_PasteleriaModel.pasteles" Width="1.5" PointX="7.5" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_PasteleriaModel.receta" Width="1.5" PointX="5.25" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_PasteleriaModel.roles" Width="1.5" PointX="7.5" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_PasteleriaModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_PasteleriaModel.usuario" Width="1.5" PointX="9.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_PasteleriaModel.venta" Width="1.5" PointX="12" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="BD_PasteleriaModel.FK__inventari__id_ca__5070F446" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_PasteleriaModel.FK__encargo__id_clie__5DCAEF64" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_PasteleriaModel.FK__detalle__id_past__59063A47" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_PasteleriaModel.FK__venta__id_detall__619B8048" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_PasteleriaModel.FK__venta__id_encarg__60A75C0F" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_PasteleriaModel.FK__receta__id_Inven__534D60F1" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_PasteleriaModel.FK__pasteles__id_rec__5629CD9C" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_PasteleriaModel.FK__usuario__id_rol__4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_PasteleriaModel.FK__venta__id_usuari__628FA481" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

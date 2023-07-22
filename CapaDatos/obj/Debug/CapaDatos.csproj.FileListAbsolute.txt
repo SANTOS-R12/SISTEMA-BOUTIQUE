@@ -1,0 +1,117 @@
+C:\Users\marvi\Desktop\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\SISTEMA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\SISTEMA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\SISTEMA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\SISTEMA\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\SISTEMA\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\marvi\Desktop\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll.config
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll.config
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll.config
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaDatos\bin\Debug\CapaEntidades.dll.config
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache

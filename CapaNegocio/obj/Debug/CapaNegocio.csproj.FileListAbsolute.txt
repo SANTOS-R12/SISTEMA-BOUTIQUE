@@ -1,0 +1,150 @@
+C:\Users\marvi\Desktop\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\marvi\Desktop\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll.config
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Denpro\Desktop\V6\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll.config
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll.config
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaNegocio\bin\Debug\CapaEntidades.dll.config
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache

@@ -1,0 +1,418 @@
+C:\Users\marvi\source\repos\SISTEMA\SISTEMA\bin\Debug\SISTEMA.exe.config
+C:\Users\marvi\source\repos\SISTEMA\SISTEMA\bin\Debug\SISTEMA.exe
+C:\Users\marvi\source\repos\SISTEMA\SISTEMA\bin\Debug\SISTEMA.pdb
+C:\Users\marvi\source\repos\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csprojAssemblyReference.cache
+C:\Users\marvi\source\repos\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Menu_principal.resources
+C:\Users\marvi\source\repos\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Properties.Resources.resources
+C:\Users\marvi\source\repos\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.GenerateResource.cache
+C:\Users\marvi\source\repos\SISTEMA\SISTEMA\obj\Debug\SISTEMA.exe
+C:\Users\marvi\source\repos\SISTEMA\SISTEMA\obj\Debug\SISTEMA.pdb
+C:\Users\marvi\source\repos\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Clientes.resources
+C:\Users\marvi\source\repos\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Proveedores.resources
+C:\Users\marvi\source\repos\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Inventario.resources
+C:\Users\marvi\source\repos\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Login.resources
+C:\Users\marvi\source\repos\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Admin.resources
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\bin\Debug\SISTEMA.exe.config
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\bin\Debug\SISTEMA.exe
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\bin\Debug\SISTEMA.pdb
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Admin.resources
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Clientes.resources
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Inventario.resources
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Login.resources
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Menu_principal.resources
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Properties.Resources.resources
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Proveedores.resources
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.GenerateResource.cache
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\SISTEMA.exe
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\SISTEMA.pdb
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CopyComplete
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AdministradorLogin.resources
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AgregarRoles.resources
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\RdlCompile.cache
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\RdlCompile.compiled
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Categoria.resources
+C:\Users\marvi\Desktop\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CoreCompileInputs.cache
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\bin\Debug\SISTEMA.exe.config
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\bin\Debug\SISTEMA.exe
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\bin\Debug\SISTEMA.pdb
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.dll
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\bin\Debug\EntityFramework.dll
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.pdb
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll.config
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.pdb
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\bin\Debug\EntityFramework.xml
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\bin\Debug\CapaDatos.pdb
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll.config
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csprojAssemblyReference.cache
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Admin.resources
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AdministradorLogin.resources
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AgregarRoles.resources
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Categoria.resources
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Clientes.resources
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Inventario.resources
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Login.resources
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Menu_principal.resources
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Properties.Resources.resources
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Proveedores.resources
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.GenerateResource.cache
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\RdlCompile.cache
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\RdlCompile.compiled
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CoreCompileInputs.cache
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CopyComplete
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\SISTEMA.exe
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\SISTEMA.pdb
+C:\Users\Denpro\Desktop\V6\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Producto.resources
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\bin\Debug\SISTEMA.exe.config
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\bin\Debug\SISTEMA.exe
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\bin\Debug\SISTEMA.pdb
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.dll
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.dll
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.pdb
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll.config
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.pdb
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.xml
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.pdb
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll.config
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csprojAssemblyReference.cache
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Admin.resources
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AdministradorLogin.resources
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AgregarRoles.resources
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Categoria.resources
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Clientes.resources
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Inventario.resources
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Login.resources
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Menu_principal.resources
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Producto.resources
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Properties.Resources.resources
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Proveedores.resources
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.GenerateResource.cache
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CoreCompileInputs.cache
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CopyComplete
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.exe
+C:\Users\Balmore Miranda\Downloads\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.pdb
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\bin\Debug\SISTEMA.exe.config
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\bin\Debug\SISTEMA.exe
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\bin\Debug\SISTEMA.pdb
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Admin.resources
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AdministradorLogin.resources
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AgregarRoles.resources
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Categoria.resources
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Clientes.resources
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Inventario.resources
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Login.resources
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Menu_principal.resources
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Producto.resources
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Properties.Resources.resources
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Proveedores.resources
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.GenerateResource.cache
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\RdlCompile.cache
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\RdlCompile.compiled
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CopyComplete
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.exe
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.pdb
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Exito.resources
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.frmNuevaVenta.resources
+C:\Users\marvi\Desktop\V10\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.ErrorLogin.resources
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Admin.resources
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AdministradorLogin.resources
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AgregarRoles.resources
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Categoria.resources
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Clientes.resources
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.ErrorLogin.resources
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Exito.resources
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.frmNuevaVenta.resources
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Inventario.resources
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Login.resources
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Menu_principal.resources
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Producto.resources
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Properties.Resources.resources
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Proveedores.resources
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.GenerateResource.cache
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\RdlCompile.cache
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\RdlCompile.compiled
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CopyComplete
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe.config
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.pdb
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.exe
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.pdb
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe.manifest
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.application
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.exe.manifest
+C:\Users\marvi\Desktop\V11\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.application
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe.config
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe.manifest
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.application
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.pdb
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Admin.resources
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AdministradorLogin.resources
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AgregarRoles.resources
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Categoria.resources
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Clientes.resources
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.ErrorLogin.resources
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Inventario.resources
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Login.resources
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Menu_principal.resources
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Producto.resources
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Properties.Resources.resources
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Proveedores.resources
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.GenerateResource.cache
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\RdlCompile.cache
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\RdlCompile.compiled
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.exe.manifest
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.application
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CopyComplete
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.exe
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.pdb
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Usuario.resources
+C:\Users\marvi\Desktop\v12\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.ok.resources
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe.config
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe.manifest
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.application
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.pdb
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Admin.resources
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AdministradorLogin.resources
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AgregarRoles.resources
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Categoria.resources
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Clientes.resources
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.ErrorLogin.resources
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Inventario.resources
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Login.resources
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Menu_principal.resources
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.ok.resources
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Producto.resources
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Properties.Resources.resources
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Proveedores.resources
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Usuario.resources
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.GenerateResource.cache
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\RdlCompile.cache
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\RdlCompile.compiled
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.exe.manifest
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.application
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CopyComplete
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.exe
+C:\Users\marvi\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.pdb
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe.config
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe.manifest
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.application
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.pdb
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.dll
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.dll
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.pdb
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll.config
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.pdb
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.xml
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.pdb
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll.config
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csprojAssemblyReference.cache
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Admin.resources
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AdministradorLogin.resources
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AgregarRoles.resources
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Categoria.resources
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Clientes.resources
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.ErrorLogin.resources
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.frmNuevaVenta.resources
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Inventario.resources
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Login.resources
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Menu_principal.resources
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.ok.resources
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Producto.resources
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Properties.Resources.resources
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Proveedores.resources
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Usuario.resources
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.GenerateResource.cache
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\RdlCompile.cache
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\RdlCompile.compiled
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CoreCompileInputs.cache
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.exe.manifest
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.application
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CopyComplete
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.exe
+C:\Users\Denpro\Desktop\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.pdb
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe.config
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe.manifest
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.application
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.pdb
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Admin.resources
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AdministradorLogin.resources
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Categoria.resources
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Clientes.resources
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.ErrorLogin.resources
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.frmNuevaVenta.resources
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Inventario.resources
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Login.resources
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Menu_principal.resources
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.ok.resources
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Producto.resources
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Properties.Resources.resources
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Proveedores.resources
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Usuario.resources
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.GenerateResource.cache
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.exe.manifest
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.application
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CopyComplete
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.exe
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.pdb
+C:\Users\marvi\Desktop\V17\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Inicio.resources
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe.config
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe.manifest
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.application
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.pdb
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.dll
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.dll
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.pdb
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll.config
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.pdb
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.xml
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.pdb
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll.config
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csprojAssemblyReference.cache
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Admin.resources
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AdministradorLogin.resources
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Categoria.resources
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Clientes.resources
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.ErrorLogin.resources
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.frmNuevaVenta.resources
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Inicio.resources
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Inventario.resources
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Login.resources
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Menu_principal.resources
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.ok.resources
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Producto.resources
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Properties.Resources.resources
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Proveedores.resources
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Usuario.resources
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.GenerateResource.cache
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.exe.manifest
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.application
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CopyComplete
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.exe
+C:\Users\marvi\Desktop\V10\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.pdb
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe.config
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe.manifest
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.application
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.exe
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\bin\Debug\BOUTIQUE.pdb
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.dll
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.dll
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.pdb
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaEntidades.dll.config
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaNegocio.pdb
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\bin\Debug\EntityFramework.xml
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.pdb
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\bin\Debug\CapaDatos.dll.config
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csprojAssemblyReference.cache
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Admin.resources
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.AdministradorLogin.resources
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Categoria.resources
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Clientes.resources
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.ErrorLogin.resources
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.frmNuevaVenta.resources
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Inicio.resources
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Inventario.resources
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Login.resources
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Menu_principal.resources
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.ok.resources
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Producto.resources
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Properties.Resources.resources
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Proveedores.resources
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.Usuario.resources
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.GenerateResource.cache
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.exe.manifest
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.application
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.CopyComplete
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.exe
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\BOUTIQUE.pdb
+C:\Users\Alexander Santos\Desktop\Universidad\v20\v20\V14\V9\SISTEMA\SISTEMA\obj\Debug\SISTEMA.csproj.AssemblyReference.cache
